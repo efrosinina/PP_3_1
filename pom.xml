@@ -6,7 +6,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.3.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 	<groupId>net.proselyte.PP_3_1</groupId>
 	<artifactId>PP_3_1</artifactId>
@@ -47,7 +47,7 @@
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter</artifactId>
-			<version>5.8.1</version> <!-- Замените на конкретную версию -->
+			<version>5.8.1</version>
 			<scope>test</scope>
 		</dependency>
 
